@@ -1,0 +1,16 @@
+D:\Factory\bin\Debug\net5.0\Factory.exe
+D:\Factory\bin\Debug\net5.0\Factory.deps.json
+D:\Factory\bin\Debug\net5.0\Factory.runtimeconfig.json
+D:\Factory\bin\Debug\net5.0\Factory.runtimeconfig.dev.json
+D:\Factory\bin\Debug\net5.0\Factory.dll
+D:\Factory\bin\Debug\net5.0\Factory.pdb
+D:\Factory\obj\Debug\net5.0\Factory.csproj.AssemblyReference.cache
+D:\Factory\obj\Debug\net5.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Factory\obj\Debug\net5.0\Factory.AssemblyInfoInputs.cache
+D:\Factory\obj\Debug\net5.0\Factory.AssemblyInfo.cs
+D:\Factory\obj\Debug\net5.0\Factory.csproj.CoreCompileInputs.cache
+D:\Factory\obj\Debug\net5.0\Factory.dll
+D:\Factory\obj\Debug\net5.0\refint\Factory.dll
+D:\Factory\obj\Debug\net5.0\Factory.pdb
+D:\Factory\obj\Debug\net5.0\Factory.genruntimeconfig.cache
+D:\Factory\obj\Debug\net5.0\ref\Factory.dll
